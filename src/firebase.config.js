@@ -1,9 +1,9 @@
 export default {
-  apiKey: "AIzaSyDfu53prPBUJXZKMxryn27MCvFP9zuXnGU",
-  authDomain: "sexy-auth.firebaseapp.com",
-  databaseURL: "https://sexy-auth.firebaseio.com",
-  projectId: "sexy-auth",
-  storageBucket: "",
-  messagingSenderId: "219620184506",
-  appId: "1:219620184506:web:333528e32e721d50"
+  apiKey: "AIzaSyDWf50ws5eBKTqADCYycHve94BIz_1hilc",
+  authDomain: "moviem8s2.firebaseapp.com",
+  databaseURL: "https://moviem8s2.firebaseio.com",
+  projectId: "moviem8s2",
+  storageBucket: "moviem8s2.appspot.com",
+  messagingSenderId: "692488483235",
+  appId: "1:692488483235:web:5683fe874aa7d02fe86a16"
 };
